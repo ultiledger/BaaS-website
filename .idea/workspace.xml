@@ -2,13 +2,329 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27d0890d-2e66-4925-b3b0-1314f6f8f31f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/db/pubuser.entity.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/mysql/index-test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db/usersql.js" beforeDir="false" afterPath="$PROJECT_DIR$/db/usersql.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/dist/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/mysql/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/mysql/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/auth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.03d8fa7e933f653aaebce4e3708dbedf.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.03d8fa7e933f653aaebce4e3708dbedf.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.2152c223aec572d648f3179d7e3163f7.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.2152c223aec572d648f3179d7e3163f7.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.22f035e5e67676ad09b42bfccd872242.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.22f035e5e67676ad09b42bfccd872242.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.26aa250472f5fdb6f7f59d9efc3526a0.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.26aa250472f5fdb6f7f59d9efc3526a0.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.2a7bee77d5a48ea3e7a24205769c676a.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.2a7bee77d5a48ea3e7a24205769c676a.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.32adcb0494de6dcbdc0bed657d52a01a.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.32adcb0494de6dcbdc0bed657d52a01a.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.3e064756eb03aee8d3e0635efa26cd71.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.3e064756eb03aee8d3e0635efa26cd71.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.44ce82924b2877a94b83037ac1dbe4df.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.44ce82924b2877a94b83037ac1dbe4df.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.44eb1ae075a58e78a11f6b1e7db5d25f.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.44eb1ae075a58e78a11f6b1e7db5d25f.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.52b43bdad714b2404bbdf94b84a067c9.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.52b43bdad714b2404bbdf94b84a067c9.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.57445575508a00b81578a7f9783fbb47.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.57445575508a00b81578a7f9783fbb47.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.64b0e8e85b3ba4706a3a20164bb50672.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.64b0e8e85b3ba4706a3a20164bb50672.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.6d85b2a5d1a446ac9fe23f0a19ead4dd.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.6d85b2a5d1a446ac9fe23f0a19ead4dd.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.79599d9c88f962b451fd91f4d664f9cd.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.79599d9c88f962b451fd91f4d664f9cd.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.7ee7ada57315f1fe6a7656f6a3db7804.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.7ee7ada57315f1fe6a7656f6a3db7804.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.7ff84b7561c747f1a5ca08a1a001aeb1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.7ff84b7561c747f1a5ca08a1a001aeb1.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.8270ff4f7eea3b1425d0198016e41ba4.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.8270ff4f7eea3b1425d0198016e41ba4.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.8438bc993119f5211c2c5b33e9964415.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.8438bc993119f5211c2c5b33e9964415.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.8485eb3aed52cd419d4ed719b13df4c0.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.8485eb3aed52cd419d4ed719b13df4c0.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.86ec1f178f6abb4938408b852a028d91.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.86ec1f178f6abb4938408b852a028d91.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.9a69885378e41f5ec903766783bf0f15.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.9a69885378e41f5ec903766783bf0f15.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.a279a8e9ccb3e8b400c9aabb6e82bd5b.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.a279a8e9ccb3e8b400c9aabb6e82bd5b.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.a8cef5f77fbc8bb4fe5fec4cde511f81.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.a8cef5f77fbc8bb4fe5fec4cde511f81.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.affee881ef423bf1b88fb8d377b4b5a9.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.affee881ef423bf1b88fb8d377b4b5a9.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.b3c1848742e75d3c198f757e68f65c1d.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.b3c1848742e75d3c198f757e68f65c1d.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.b3fc2602b1a5e9f5e4f27552b5160ab4.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.b3fc2602b1a5e9f5e4f27552b5160ab4.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.b6fa0d0658758bf94e09ecef7bc90920.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.b6fa0d0658758bf94e09ecef7bc90920.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.ccae0492440b823c79b00bdff36df488.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.ccae0492440b823c79b00bdff36df488.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.cd00d1f534279b1a47e8f0b48275fb35.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.cd00d1f534279b1a47e8f0b48275fb35.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.fafea1cfd06fef6a9e937d316916777e.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.fafea1cfd06fef6a9e937d316916777e.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.ff94cdfe7e98a95ca443f708969a88df.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/css/app.ff94cdfe7e98a95ca443f708969a88df.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/0.8870ae8f6ae5b99036ad.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/0.8870ae8f6ae5b99036ad.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/1.86e42275418f96fa3c6a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/1.86e42275418f96fa3c6a.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/1.94e6e5585740172e4475.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/1.94e6e5585740172e4475.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/10.1a960cf1210e3ed9a20a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/10.1a960cf1210e3ed9a20a.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/10.20feb12ead4dd93ccdb0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/10.20feb12ead4dd93ccdb0.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/10.3dfa72fe51085e09fa40.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/10.3dfa72fe51085e09fa40.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/10.cccd21485da5d5c0cc19.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/10.cccd21485da5d5c0cc19.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/10.f1eb8cc42b7e9706d7f6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/10.f1eb8cc42b7e9706d7f6.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/11.27800901b4587658e990.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/11.27800901b4587658e990.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/11.560bd527fef1e98744d7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/11.560bd527fef1e98744d7.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/11.5d2b2f6dbb9d3b084bde.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/11.5d2b2f6dbb9d3b084bde.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/11.773d41407cfb4cd1ee1a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/11.773d41407cfb4cd1ee1a.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/11.7b886eb6b1a0cfbf70dc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/11.7b886eb6b1a0cfbf70dc.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/11.7c217621ee4c627b3eab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/11.7c217621ee4c627b3eab.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/11.8eef60f63275a3a64419.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/11.8eef60f63275a3a64419.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/11.99be0b0042e1d3572d12.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/11.99be0b0042e1d3572d12.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/11.cf9efb33de6005c4730c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/11.cf9efb33de6005c4730c.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/11.fd873097b0b4043214d9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/11.fd873097b0b4043214d9.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/12.29e02bfcdac215c1e559.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/12.29e02bfcdac215c1e559.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/12.7db71eb03eb7990ef414.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/12.7db71eb03eb7990ef414.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/12.a8240c770e6d2504532a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/12.a8240c770e6d2504532a.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/12.a95844c354c57ec06601.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/12.a95844c354c57ec06601.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/12.b8a3dba95fcdae435423.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/12.b8a3dba95fcdae435423.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/12.ca4de704501ebe7980ab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/12.ca4de704501ebe7980ab.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/12.d0d5630165345a281572.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/12.d0d5630165345a281572.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/12.e087936899e66ab7415e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/12.e087936899e66ab7415e.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/12.f88ce0489b645f21e9a0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/12.f88ce0489b645f21e9a0.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/13.0de75d16c654a463ca6a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/13.0de75d16c654a463ca6a.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/13.38d04ff4862e9dcfd13b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/13.38d04ff4862e9dcfd13b.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/13.8bdc31fe1b9b4cfade35.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/13.8bdc31fe1b9b4cfade35.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/13.a0c83336fbc44a29f57f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/13.a0c83336fbc44a29f57f.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/13.a29da13492ca6e25b103.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/13.a29da13492ca6e25b103.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/13.ac63ba2da50bc1d67adf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/13.ac63ba2da50bc1d67adf.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/13.d9f193b1892ffaa5d1a7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/13.d9f193b1892ffaa5d1a7.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/13.fbf23383864e83201378.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/13.fbf23383864e83201378.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/14.174ba2a0990579c719f9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/14.174ba2a0990579c719f9.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/14.265c5897b4bd7df5a996.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/14.265c5897b4bd7df5a996.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/14.456aa3a740c5d3b04e8a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/14.456aa3a740c5d3b04e8a.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/14.5fb9828310994ae21e81.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/14.5fb9828310994ae21e81.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/14.87970192bdf7d1d8a18f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/14.87970192bdf7d1d8a18f.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/14.c1e008294bde517fb3f4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/14.c1e008294bde517fb3f4.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/14.d330c3a03197e6c12916.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/14.d330c3a03197e6c12916.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/14.d4e81d0305815d578cc1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/14.d4e81d0305815d578cc1.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/14.e09be2f5c5c5b791c7e0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/14.e09be2f5c5c5b791c7e0.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/15.d57168654395e0f5ae96.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/15.d57168654395e0f5ae96.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/16.7e2720be6d5d4aaef3b4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/16.7e2720be6d5d4aaef3b4.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/3.9b5ee1274ded42406525.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/3.9b5ee1274ded42406525.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/3.ce79b720f5f39c7df209.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/3.ce79b720f5f39c7df209.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/4.beebafd54e813e54281d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/4.beebafd54e813e54281d.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/4.c1783cd883a343e3304f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/4.c1783cd883a343e3304f.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/5.15ac2053a052f7faf7d7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/5.15ac2053a052f7faf7d7.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/8.11b0daf976bd7c45879a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/8.11b0daf976bd7c45879a.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/8.6d3ef44db2607aa5f663.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/8.6d3ef44db2607aa5f663.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/8.a46d2db878cbb0fc26b7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/8.a46d2db878cbb0fc26b7.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/8.b349540392eb0c6a2420.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/8.b349540392eb0c6a2420.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/9.3315cd33b65d53622433.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/9.3315cd33b65d53622433.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/9.54e1ed4373ac9e7c9ede.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/9.54e1ed4373ac9e7c9ede.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/9.79889d4166a9eb3d3fcc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/9.79889d4166a9eb3d3fcc.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/9.ba7918a8b910f30131cc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/9.ba7918a8b910f30131cc.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/9.be4cd025d62097c550cb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/9.be4cd025d62097c550cb.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/app.0353a7fbf06607a6d294.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/app.0353a7fbf06607a6d294.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/app.09ad30218b21a26698e4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/app.09ad30218b21a26698e4.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/app.235ac91567186532595d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/app.235ac91567186532595d.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/app.2ca1d63302f1b6646047.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/app.2ca1d63302f1b6646047.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/app.47606015f79fb9884a50.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/app.47606015f79fb9884a50.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/app.4981f671d18ca98f10ba.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/app.4981f671d18ca98f10ba.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/app.5a07d2c7d6e21d920b27.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/app.5a07d2c7d6e21d920b27.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/app.6f853f08496ffc275ec2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/app.6f853f08496ffc275ec2.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/app.6fa9914d005ae5521e66.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/app.6fa9914d005ae5521e66.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/app.711dfec4b20f1fc9e3a8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/app.711dfec4b20f1fc9e3a8.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/app.7900e46f29009fef34ee.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/app.7900e46f29009fef34ee.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/app.797b926cf91b99e95d31.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/app.797b926cf91b99e95d31.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/app.83387a12b98e491bb362.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/app.83387a12b98e491bb362.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/app.86090337c27671916cb4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/app.86090337c27671916cb4.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/app.97426a3cd76bb8053237.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/app.97426a3cd76bb8053237.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/app.9a974272b8129f117ac2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/app.9a974272b8129f117ac2.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/app.9f0c9ca7899ffac4097b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/app.9f0c9ca7899ffac4097b.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/app.a5bd1a1dd3da0cf02603.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/app.a5bd1a1dd3da0cf02603.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/app.b24b72c12a1ea7809deb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/app.b24b72c12a1ea7809deb.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/app.bf3bb44150021b056a13.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/app.bf3bb44150021b056a13.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/app.d3b7e0145b4fc843da10.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/app.d3b7e0145b4fc843da10.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/app.d6b562e4a93712322f6f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/app.d6b562e4a93712322f6f.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/app.da29d77a9d4cbf403289.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/app.da29d77a9d4cbf403289.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/app.da6789d2fe5feb0ac986.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/app.da6789d2fe5feb0ac986.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/app.ebe48049b08b72be9baf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/app.ebe48049b08b72be9baf.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/app.ec6b1792405c5e147cc8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/app.ec6b1792405c5e147cc8.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/app.f68be004da009dc16ada.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/app.f68be004da009dc16ada.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/app.f710489ced02396885aa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/app.f710489ced02396885aa.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.0a09415c914a8105439f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.0a09415c914a8105439f.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.0bea60175ef1d16539f2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.0bea60175ef1d16539f2.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.10b8266f4c7b2a5a4fbe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.10b8266f4c7b2a5a4fbe.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.164212e01d37047909f5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.164212e01d37047909f5.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.1aa6b538930ddf78c517.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.1aa6b538930ddf78c517.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.26108a70bb282e0d1310.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.26108a70bb282e0d1310.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.27830061e37a0ca080e0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.27830061e37a0ca080e0.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.2ad546ab3996cadc5dc4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.2ad546ab3996cadc5dc4.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.38309343e9f9522a8601.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.38309343e9f9522a8601.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.39535f74c606585a37a7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.39535f74c606585a37a7.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.3d02810d621536467eb2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.3d02810d621536467eb2.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.464cd5c802e04fb15188.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.464cd5c802e04fb15188.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.4c0a362a0aadc8723cdc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.4c0a362a0aadc8723cdc.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.4caf941993b80629c6cf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.4caf941993b80629c6cf.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.540c6bcadcb139dadb00.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.540c6bcadcb139dadb00.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.5929ad0e8fded2737b0c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.5929ad0e8fded2737b0c.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.6165837eae9d29ca89cb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.6165837eae9d29ca89cb.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.8501534e4df93186646f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.8501534e4df93186646f.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.8ab4d4c744bb0667627a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.8ab4d4c744bb0667627a.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.90f326ef6c62075d5f9e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.90f326ef6c62075d5f9e.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.97dcbd5818abc5a08c1c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.97dcbd5818abc5a08c1c.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.9ea89ce9d4cdf7c30225.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.9ea89ce9d4cdf7c30225.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.b44d98c48c45f3442bfc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.b44d98c48c45f3442bfc.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.c565451df8d4df0872e1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.c565451df8d4df0872e1.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.c597fb434ccb2e98477d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.c597fb434ccb2e98477d.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.cae976302b9dda18b89e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.cae976302b9dda18b89e.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.d4a34b28f5b44acc076d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.d4a34b28f5b44acc076d.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.d8521eb76870d4517b7f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.d8521eb76870d4517b7f.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.e2bd05868ae4bdea8dca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.e2bd05868ae4bdea8dca.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.e52eaf2dd52f9ad372f6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.e52eaf2dd52f9ad372f6.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.e64ae1c1d34be5868f80.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.e64ae1c1d34be5868f80.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.e7f3fede4c7bf0850c2f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.e7f3fede4c7bf0850c2f.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.e97eae19fa7d9a47cde4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.e97eae19fa7d9a47cde4.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.f044a02ea1ac131539c8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.f044a02ea1ac131539c8.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.f2a12edf4daaf365a84e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.f2a12edf4daaf365a84e.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.f2a65082a037703ff504.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.f2a65082a037703ff504.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.f8d6ad4fddda73ec6b77.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/manifest.f8d6ad4fddda73ec6b77.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/vendor.28bba38373bb24a086d2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/vendor.28bba38373bb24a086d2.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/vendor.f42c2ddddcc85a433fc7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/js/vendor.f42c2ddddcc85a433fc7.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/static/src/components/login/img/loading.6528b6d.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/mysql/index-test.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/mysql/index-test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/user.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -23,52 +339,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="www" pinned="false" current-in-tab="false">
+      <file leaf-file-name="www" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bin/www">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
-              <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+            <state relative-caret-position="250">
+              <caret line="71" column="22" lean-forward="true" selection-start-line="71" selection-start-column="22" selection-end-line="71" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app.js">
+      <file leaf-file-name="mysqlConfig.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/config/mysqlConfig.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="constants.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/utils/constants.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="user.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/routes/user.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="56" column="8" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="menu.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/db/menu.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/mysql/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+            <state relative-caret-position="110">
+              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -76,17 +360,44 @@
       <file leaf-file-name="usersql.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/db/usersql.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+            <state relative-caret-position="88">
+              <caret line="4" column="70" selection-start-line="4" selection-start-column="70" selection-end-line="4" selection-end-column="70" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pubuser.entity.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/db/pubuser.entity.js">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+            <state relative-caret-position="286">
+              <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/user.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="39" column="27" lean-forward="true" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/mysql/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -94,8 +405,26 @@
       <file leaf-file-name="index-test.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/mysql/index-test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+            <state relative-caret-position="308">
+              <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="auth.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/auth.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="encryptor.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/utils/encryptor.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -109,14 +438,36 @@
       <find>requ</find>
       <find>auth</find>
       <find>express-session</find>
-      <find>insert</find>
       <find>query</find>
       <find>verifyCode</find>
+      <find>maxAge</find>
+      <find>maxag</find>
+      <find>express-sess</find>
+      <find>msgtype</find>
+      <find>MsgType.TOLOGIN</find>
+      <find>SUCCESS</find>
+      <find>TOLOGIN</find>
+      <find>logout</find>
+      <find>ent</find>
+      <find>getconte</find>
+      <find>express-ses</find>
       <find>session</find>
+      <find>maxage</find>
+      <find>spawn.js</find>
+      <find>local</find>
+      <find>host</find>
+      <find>localhost</find>
+      <find>apiRootMap</find>
+      <find>baas</find>
+      <find>login</find>
+      <find>NULL</find>
+      <find>insert</find>
+      <find>mysql</find>
     </findStrings>
     <replaceStrings>
       <replace>verifyCode</replace>
       <replace>vertifyCode</replace>
+      <replace>null</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -127,14 +478,16 @@
       <list>
         <option value="$PROJECT_DIR$/bin/www" />
         <option value="$PROJECT_DIR$/app.js" />
-        <option value="$PROJECT_DIR$/routes/index.js" />
         <option value="$PROJECT_DIR$/test/public/mysql/index-test.js" />
-        <option value="$PROJECT_DIR$/public/mysql/index.js" />
-        <option value="$PROJECT_DIR$/public/mysql/index-test.js" />
-        <option value="$PROJECT_DIR$/db/usersql.js" />
         <option value="$PROJECT_DIR$/routes/auth.js" />
         <option value="$PROJECT_DIR$/db/entity.js" />
         <option value="$PROJECT_DIR$/db/user.entity.js" />
+        <option value="$PROJECT_DIR$/public/utils/constants.js" />
+        <option value="$PROJECT_DIR$/routes/index.js" />
+        <option value="$PROJECT_DIR$/public/mysql/index.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/db/usersql.js" />
+        <option value="$PROJECT_DIR$/public/mysql/index-test.js" />
         <option value="$PROJECT_DIR$/routes/user.js" />
       </list>
     </option>
@@ -156,22 +509,28 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="67" />
-    <option name="y" value="25" />
-    <option name="width" value="1853" />
-    <option name="height" value="1055" />
+    <option name="x" value="885" />
+    <option name="y" value="191" />
+    <option name="width" value="1843" />
+    <option name="height" value="789" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="baas-ofiice" type="b2602c69:ProjectViewProjectNode" />
               <item name="baas-ofiice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="baas-ofiice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="baas-ofiice" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="baas-ofiice" type="b2602c69:ProjectViewProjectNode" />
@@ -187,7 +546,48 @@
               <item name="baas-ofiice" type="b2602c69:ProjectViewProjectNode" />
               <item name="baas-ofiice" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="baas-ofiice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="baas-ofiice" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="baas-ofiice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="baas-ofiice" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="baas-ofiice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="baas-ofiice" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="baas-ofiice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="baas-ofiice" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="baas-ofiice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="baas-ofiice" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
               <item name="mysql" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="baas-ofiice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="baas-ofiice" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="baas-ofiice" type="b2602c69:ProjectViewProjectNode" />
@@ -198,7 +598,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -207,6 +606,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -273,53 +673,103 @@
       <workItem from="1530753185261" duration="2229000" />
       <workItem from="1530863548054" duration="1447000" />
       <workItem from="1531106931288" duration="6786000" />
-      <workItem from="1531123179820" duration="20555000" />
+      <workItem from="1531123179820" duration="21174000" />
+      <workItem from="1531275400433" duration="11372000" />
+      <workItem from="1531382640645" duration="11790000" />
+      <workItem from="1531530237590" duration="1871000" />
+      <workItem from="1531885177820" duration="2000" />
+      <workItem from="1531901708906" duration="2838000" />
+      <workItem from="1532182326203" duration="599000" />
+      <workItem from="1532186954014" duration="1328000" />
+      <workItem from="1532311603631" duration="142000" />
+      <workItem from="1532568775908" duration="40329000" />
+      <workItem from="1532679150237" duration="11106000" />
+      <workItem from="1532915208367" duration="3474000" />
+      <workItem from="1533030943060" duration="4385000" />
+      <workItem from="1533190179892" duration="599000" />
+      <workItem from="1533200184962" duration="599000" />
+      <workItem from="1533208539533" duration="599000" />
+      <workItem from="1533219368095" duration="599000" />
+      <workItem from="1533305813016" duration="597000" />
+      <workItem from="1533517140392" duration="599000" />
+      <workItem from="1533542614902" duration="599000" />
+      <workItem from="1533608884240" duration="599000" />
+      <workItem from="1533699615113" duration="599000" />
+      <workItem from="1533736609992" duration="599000" />
+      <workItem from="1533862838577" duration="599000" />
+      <workItem from="1533959694952" duration="599000" />
+      <workItem from="1534122374529" duration="599000" />
+      <workItem from="1534211275092" duration="599000" />
+      <workItem from="1534294081894" duration="599000" />
+      <workItem from="1534322145461" duration="599000" />
+      <workItem from="1534385134148" duration="11544000" />
+      <workItem from="1534735219472" duration="14405000" />
+      <workItem from="1534765332768" duration="1180000" />
+      <workItem from="1534814065157" duration="1799000" />
+      <workItem from="1534902462576" duration="599000" />
+      <workItem from="1535337219454" duration="2451000" />
+      <workItem from="1535419315773" duration="599000" />
+      <workItem from="1535506716437" duration="599000" />
+      <workItem from="1535614032880" duration="599000" />
+      <workItem from="1535682114067" duration="1202000" />
+      <workItem from="1535957252363" duration="599000" />
+      <workItem from="1536042873935" duration="596000" />
+      <workItem from="1536204167718" duration="599000" />
+      <workItem from="1536282520543" duration="599000" />
+      <workItem from="1536629704631" duration="599000" />
+      <workItem from="1536734367490" duration="599000" />
+      <workItem from="1536743362642" duration="599000" />
+      <workItem from="1537242365269" duration="599000" />
+      <workItem from="1537631240755" duration="20000" />
+      <workItem from="1539562923741" duration="2206000" />
+      <workItem from="1539656351180" duration="599000" />
+      <workItem from="1540366893076" duration="1881000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77832000" />
+    <option name="totallyTimeSpent" value="221741000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24822307" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26407874" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32924107" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info id="npm" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40513393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32924107" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39955357" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3325893" />
       <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39955357" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24822307" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26407874" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32924107" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4252232" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39955357" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32924107" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3325893" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info id="Favorites" order="3" side_tool="true" />
     </layout-to-restore>
   </component>
@@ -333,124 +783,15 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/public/mysql/index-test.js</url>
-          <line>17</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/routes/user.js</url>
-          <line>48</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/routes/user.js</url>
-          <line>54</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/routes/user.js</url>
-          <line>59</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="17" />
+          <line>36</line>
+          <option name="timeStamp" value="26" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="18" />
+      <option name="time" value="31" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/routes/auth.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/mysql/index-test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="81" selection-start-line="6" selection-start-column="81" selection-end-line="6" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/www">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/user.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/www">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/user.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/pubfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1012">
-          <caret line="46" column="16" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/auth.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/www">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
@@ -528,20 +869,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/notice.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/express/lib/express.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="191">
           <caret line="62" selection-start-line="62" selection-end-line="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/pubfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-870">
-          <caret line="33" column="26" lean-forward="true" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -566,13 +897,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/express-session/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="164" column="4" lean-forward="true" selection-start-line="164" selection-start-column="4" selection-end-line="164" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/express/lib/router/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="169">
@@ -594,22 +918,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/data.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/dist/index.html">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/www">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/public/mysql/index-test.js" />
     <entry file="file://$PROJECT_DIR$/node_modules/mysql/index.js">
@@ -619,83 +929,197 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/config/mysqlConfig.js">
+    <entry file="file://$PROJECT_DIR$/public/model/RetMsg.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
-          <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/index.js">
+    <entry file="file://$PROJECT_DIR$/routes/data.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="858">
-          <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+        <state relative-caret-position="30">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/auth.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/express-session/session/memory.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="16" column="6" lean-forward="true" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        <state relative-caret-position="190">
+          <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/mysql/index-test.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/express-session/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/utils/constants.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        <state relative-caret-position="-594">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/db/menu.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        <state>
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/mysql/index.js">
+    <entry file="file://$PROJECT_DIR$/buid-with-front.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        <state relative-caret-position="286">
+          <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portal.release">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portal.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/gylsz.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1056">
+          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/config/sfpConfig.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/utils/constants.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" selection-start-line="8" selection-end-line="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/db/pubuser.entity.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
-          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/pubfilesql.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/notice.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/pubfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/debug/node.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/dist-old/static/src/components/login/img/login-bg.d3b5c89.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/utils/encryptor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/auth.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/config/mysqlConfig.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/db/usersql.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        <state relative-caret-position="88">
+          <caret line="4" column="70" selection-start-line="4" selection-start-column="70" selection-end-line="4" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/mysql/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/mysql/index-test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/routes/user.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="56" column="8" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="8" />
+        <state relative-caret-position="132">
+          <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="39" column="27" lean-forward="true" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/www">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="71" column="22" lean-forward="true" selection-start-line="71" selection-start-column="22" selection-end-line="71" selection-end-column="22" />
         </state>
       </provider>
     </entry>

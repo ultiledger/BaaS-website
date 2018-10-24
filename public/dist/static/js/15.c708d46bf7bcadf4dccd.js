@@ -1,0 +1,2 @@
+webpackJsonp([15],{anyt:function(t,e,i){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var n={render:function(){this.$createElement;this._self._c;return this._m(0)},staticRenderFns:[function(){var t=this.$createElement,e=this._self._c||t;return e("div",[e("iframe",{staticStyle:{width:"100%",height:"1000px","padding-left":"300px","padding-right":"200px","margin-right":"100px","padding-top":"80px"},attrs:{src:"/static/apidoc/index.html"}})])}]},r=i("VU/8")(null,n,!1,null,null,null);e.default=r.exports}});
+//# sourceMappingURL=15.c708d46bf7bcadf4dccd.js.map
